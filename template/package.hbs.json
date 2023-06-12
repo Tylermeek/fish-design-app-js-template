@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tyler_the_duck/fish-design": "^0.1.5",
+    "fish-design-vite": "latest",
     "vue": "^3.2.41"
   },
   "devDependencies": {
