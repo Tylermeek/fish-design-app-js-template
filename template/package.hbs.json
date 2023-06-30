@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "fish-design-vite": "latest",
-    "vue": "^3.2.41"
+    "vue": "3.2.41"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
